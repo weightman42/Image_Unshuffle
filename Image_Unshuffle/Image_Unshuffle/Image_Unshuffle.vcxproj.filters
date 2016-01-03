@@ -29,7 +29,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Image_Unshuffle.cpp">
+    <ClCompile Include="Image_Shuffler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Image_Unshuffler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
